@@ -1,6 +1,3 @@
-For your **Amazon Clone** project built with HTML and CSS, a good README should clearly explain what the project is, how to use it, and why it exists. Think of it as the "first impression" for anyone visiting your repo. Here’s a structured template you can adapt:
-
----
 
 # Amazon Clone 🛒
 
