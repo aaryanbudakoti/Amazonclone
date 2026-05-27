@@ -43,7 +43,7 @@ amazonclone/
 
 
 
-## 📌 Future Improvements
+## 📌 Future Improvements in the Project
 - Add JavaScript for interactivity (search, cart, etc.)  
 - Backend integration for dynamic products  
 - User authentication and checkout flow  
